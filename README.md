@@ -1,6 +1,6 @@
 # Projeto 02 - Stage 03, Explorer.
 
-Este é o segundo projeto do Stage 03 do programa Explorer da [RocketSeat](rocketseat.com.br/).
+Este é o segundo projeto do Stage 03 do programa Explorer da [RocketSeat](https://rocketseat.com.br/).
 
 ## Índice
 
